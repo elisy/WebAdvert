@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sergei Kartashev</Authors>
+    <Company>None</Company>
+    <Product>Web Advert</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl />
+    <PackageId>Elisy.AdvertApi.Models</PackageId>
   </PropertyGroup>
 
 </Project>

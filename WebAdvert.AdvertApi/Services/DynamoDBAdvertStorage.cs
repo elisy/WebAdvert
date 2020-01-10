@@ -26,7 +26,7 @@ namespace AdvertApi.Services
             dbModel.CreationDateTime = DateTime.UtcNow;
             dbModel.Status = AdvertStatus.Pending;
 
-            using (var client = new AmazonDynamoDBClient())
+            using (var client = new AmazonDynamoDBClient(Amazon.RegionEndpoint.EUCentral1))
             {
                 var table = await client.DescribeTableAsync("Adverts");
 
@@ -42,7 +42,8 @@ namespace AdvertApi.Services
         public async Task<bool> CheckHealthAsync()
         {
             Console.WriteLine("Health checking...");
-            using (var client = new AmazonDynamoDBClient())
+
+            using (var client = new AmazonDynamoDBClient(Amazon.RegionEndpoint.EUCentral1))
             {
                 var tableData = await client.DescribeTableAsync("Adverts");
                 return string.Compare(tableData.Table.TableStatus, "active", true) == 0;
