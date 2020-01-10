@@ -1,9 +1,0 @@
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\bin\Debug\netcoreapp3.1\AdvertApi.Models.dll
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\AdvertApi.csprojAssemblyReference.cache
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\staticwebassets\AdvertApi.StaticWebAssets.Manifest.cache
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\staticwebassets\AdvertApi.StaticWebAssets.xml
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\AdvertApi.AssemblyInfoInputs.cache
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\AdvertApi.AssemblyInfo.cs
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\obj\Debug\netcoreapp3.1\AdvertApi.RazorTargetAssemblyInfo.cache
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
-D:\517-Udemy\dotNetAWS\WebAdvert\WebAdvert.AdvertApi\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
